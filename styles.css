@@ -1,0 +1,133 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+    background-image: url(fondoindex.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Encabezado principal */
+header {
+    background-color: #49666d;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+#sobre-mi {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#experiencia {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);;
+}
+
+#educacion {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#lenguages {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#intereses-personales {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#intereses-profesionales {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#navegacion-index {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: larger;
+    text-size-adjust: auto;
+    width: 300px;
+    border-radius: 8px;
+}
+
+#navegacion-horario {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px 0;
+    margin-top: 10px;
+    font-size: larger;
+    text-size-adjust: auto;
+    margin: auto;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#navegacion-intereses {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px 0;
+    margin-top: 10px;
+    font-size: larger;
+    text-size-adjust: auto;
+    margin: auto;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+#header-horario {
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #49666d;
+    color: white;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
